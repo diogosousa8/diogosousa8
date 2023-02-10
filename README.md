@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosousa8&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosousa8&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=diogosousa8&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosousa8&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 <br>
 
